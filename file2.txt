@@ -1,5 +1,17 @@
 Source file2
-dsfgdgngmklgmlerkmgre;lg;smdm
-dglmregmerg[ermg[reg,
-ger'grpegr[pekg[pgl[prglr[peglr[egpl\
-elf[perlgl[pelgl[pekg[pke
+name   = "Roman"
+age    = "29"
+height = "195"
+
+name   = "Arnold"
+age    = "71"
+height = "190"
+
+
+if Roman heigt > Arnold height 
+print:
+    Roman is haigher 
+else:
+    Roman is lower
+
+ 
